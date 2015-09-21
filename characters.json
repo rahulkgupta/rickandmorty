@@ -1,0 +1,64 @@
+[
+  {
+    "character": "Rick Sanchez",
+    "character_img": "",
+    "actor": "Justin Roiland",
+    "actor_img": "",
+    "episodes": {
+      "season 1": [
+        "episode 1",
+        "episode 2",
+        "episode 3",
+        "episode 4",
+        "episode 5",
+        "episode 6",
+        "episode 7",
+        "episode 8",
+        "episode 9",
+        "episode 10",
+        "episode 11"
+      ],
+      "season 2": [
+        "episode 1",
+        "episode 2",
+        "episode 3",
+        "episode 4",
+        "episode 5",
+        "episode 6",
+        "episode 7",
+        "episode 8"
+      ]
+    }
+  },
+  {
+    "character": "Morty Smith",
+    "character_img": "",
+    "actor": "Justin Roiland",
+    "actor_img": "",
+    "episodes": {
+      "season 1": [
+        "episode 1",
+        "episode 2",
+        "episode 3",
+        "episode 4",
+        "episode 5",
+        "episode 6",
+        "episode 7",
+        "episode 8",
+        "episode 9",
+        "episode 10",
+        "episode 11"
+      ],
+      "season 2": [
+        "episode 1",
+        "episode 2",
+        "episode 3",
+        "episode 4",
+        "episode 5",
+        "episode 6",
+        "episode 7",
+        "episode 8"
+      ]
+    }
+  }
+]
